@@ -1,0 +1,22 @@
+{
+  "name": "gob_adapter",
+  "description": "Adapters for adding extended functions that combine public functions of existing classes",
+  "keywords": "C++,template",
+  "authors": {
+    "name": "GOB",
+    "url": "https://github.com/GOB52",
+    "maintainer": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GOB52/gob_adapter.git"
+  },
+  "version": "0.0.1",
+  "build": {
+    "libArchive": false
+  },
+  "headers": "gob_adapter.hpp",
+  "license": "MIT",
+  "platforms": "*",
+  "frameworks": "*"
+}
