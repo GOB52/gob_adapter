@@ -22,7 +22,7 @@ Install in an appropriate way depending on your environment.
 * git clone or download zip, and extract into place
 * platformio.ini
 ```ini
-lib_deps = gob/gob_unifiedButton
+lib_deps = https://github.com/GOB52/gob_adapter.git
 ```
 
 ## How to use
